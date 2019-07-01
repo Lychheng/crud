@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css?family=Numans');
+tr td b{ color:green ;}
+.text-title
+{
+	color: #FFC312;
+	width: 100%;
+	text-align: center;
+	margin: 20px;
+}
+.btnBack{
+    float: right;
+    border: none;
+	padding: 5px;
+	margin-right: 90px;
+    border-radius: 20px;
+    background: #FFC312	;
+    color: #fff;
+    font-weight: 600;
+    width: 100px;
+    cursor: pointer;
+}
+.btnDelete{
+    float: right;
+    border: none;
+	padding: 5px;
+	margin-right: 90px;
+    border-radius: 20px;
+    background: rgb(255, 26, 18)	;
+    color: #fff;
+    font-weight: 600;
+    width: 100px;
+    cursor: pointer;
+}
+.profile
+{
+	width: 100%;
+	margin-top: 20px;
+	height: 200px;
+}
+.profile img
+{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;	
+}
